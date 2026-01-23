@@ -29,7 +29,7 @@
         "@aws-sdk/token-providers": "3.731.1",
         "@aws-sdk/types": "3.731.0",
         "@aws-sdk/util-user-agent-browser": "3.731.0",
-        "@aws-sdk/util-user-agent-node": "3.731.0",
+        "@aws-sdk/util-user-agent-node": "3.957.0",
         "@smithy/config-resolver": "^4.0.1",
         "@smithy/core": "^3.1.1",
         "@smithy/eventstream-serde-browser": "^4.0.1",
