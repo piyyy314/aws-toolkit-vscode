@@ -628,7 +628,7 @@
         "@aws/mynah-ui": "^4.40.3",
         "@gerhobbelt/gitignore-parser": "^0.2.0-9",
         "@iarna/toml": "^2.2.5",
-        "@kubernetes/client-node": "^1.4.0",
+        "@kubernetes/client-node": "^2.0.0",
         "@smithy/fetch-http-handler": "^5.0.1",
         "@smithy/middleware-retry": "^4.0.3",
         "@smithy/node-http-handler": "^4.0.2",
