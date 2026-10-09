@@ -24,7 +24,7 @@
         "@aws-sdk/middleware-host-header": "3.731.0",
         "@aws-sdk/middleware-logger": "3.731.0",
         "@aws-sdk/middleware-recursion-detection": "3.731.0",
-        "@aws-sdk/middleware-user-agent": "3.731.0",
+        "@aws-sdk/middleware-user-agent": "3.894.0",
         "@aws-sdk/region-config-resolver": "3.731.0",
         "@aws-sdk/token-providers": "3.731.1",
         "@aws-sdk/types": "3.731.0",
@@ -39,7 +39,7 @@
         "@smithy/hash-node": "^4.0.1",
         "@smithy/invalid-dependency": "^4.0.1",
         "@smithy/middleware-content-length": "^4.0.1",
-        "@smithy/middleware-retry": "^4.0.3",
+        "@smithy/middleware-retry": "^4.3.0",
         "@smithy/middleware-serde": "^4.0.1",
         "@smithy/middleware-stack": "^4.0.1",
         "@smithy/node-config-provider": "^4.0.1",
@@ -57,7 +57,7 @@
         "@smithy/util-retry": "^4.0.1",
         "@smithy/util-utf8": "^4.0.0",
         "@types/uuid": "^9.0.1",
-        "uuid": "^9.0.1"
+        "uuid": "^11.1.1"
     },
     "devDependencies": {
         "@tsconfig/node18": "18.2.4",
